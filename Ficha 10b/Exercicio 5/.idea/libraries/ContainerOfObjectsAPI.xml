@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ContainerOfObjectsAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ContainerAPI/ContainerOfObjectsAPI/dist/ContainerOfObjectsAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
